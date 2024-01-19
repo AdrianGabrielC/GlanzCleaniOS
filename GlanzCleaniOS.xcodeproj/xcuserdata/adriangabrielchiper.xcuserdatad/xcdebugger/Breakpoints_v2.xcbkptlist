@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01CD87C9-559C-4B58-BCA8-5B9F371D9DAD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B484F555-D984-441D-8271-59839C546842"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanzCleaniOS/Networking/Core/APIRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "request(apiRouter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B484F555-D984-441D-8271-59839C546842 - 2f40770195db822f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; () in static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "3640">
+               </Location>
+               <Location
+                  uuid = "B484F555-D984-441D-8271-59839C546842 - 2f40770195db822f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; () in static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2352">
+               </Location>
+               <Location
+                  uuid = "B484F555-D984-441D-8271-59839C546842 - 2f40770195db820e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; () in static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "2352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EB2F993-6C53-445E-A4CC-FD29D020C66C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanzCleaniOS/Shared/Sheets/SelectableObject/SelectItemSheet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "toggleChanged(at:newValue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18C7B6FB-2066-407D-B597-5F16E48A7C83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanzCleaniOS/Work/AddWork/AddWorkViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "addItem(type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18C7B6FB-2066-407D-B597-5F16E48A7C83 - f82cad6e1537778b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GlanzCleaniOS.AddWorkViewModel.addItem(type: GlanzCleaniOS.SelectableObjectType) async -&gt; GlanzCleaniOS.APIResponseStatus"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Work/AddWork/AddWorkViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "18C7B6FB-2066-407D-B597-5F16E48A7C83 - f82cad6e1537778b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for GlanzCleaniOS.AddWorkViewModel.addItem(type: GlanzCleaniOS.SelectableObjectType) async -&gt; GlanzCleaniOS.APIResponseStatus"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Work/AddWork/AddWorkViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanzCleaniOS/Networking/Core/APIRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "request(apiRouter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - 292b1f75013fccf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2156">
+               </Location>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - 5a74de68e4d808f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - a41abded49a5b6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - 292b1f75013fccd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1980">
+               </Location>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - 5a74de68e4d808d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "0DCB781A-73B1-4814-AEE7-FA534A3A429B - a41abded49a5b6eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED5D9BB-77A8-4370-9D28-F7B956A6667B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GlanzCleaniOS/Networking/Core/APIRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "request(apiRouter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3ED5D9BB-77A8-4370-9D28-F7B956A6667B - 292b1f75013fcfe9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "3ED5D9BB-77A8-4370-9D28-F7B956A6667B - 292b1f75013fcfe9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static GlanzCleaniOS.APIRequest.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(apiRouter: GlanzCleaniOS.APIRouter) async throws -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GlanzCleaniOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adriangabrielchiper/Documents/GlanzCleaniOSV3/GlanzCleaniOSV4/GlanzCleaniOS/GlanzCleaniOS/Networking/Core/APIRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
